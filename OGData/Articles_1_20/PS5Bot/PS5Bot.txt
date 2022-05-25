@@ -1,0 +1,50 @@
+Bots have a bad rep. Shady manipulators have used these automated computer programs on social networks to spread conspiracy theories, spew vitriol and scam people. But when bots are programmed to do good, they can help us accomplish the seemingly impossible.
+
+Take buying a PlayStation 5. Since the Sony console was released in November, it has been hard to find in physical and online stores, partly because a global chip shortage has slowed down manufacturing of all kinds of tech products, from graphics cards to automobiles.
+
+As a result, when the new PlayStation appears online on sites like Amazon, Target and Best Buy, it sells out in minutes — sometimes seconds. Sony has said that demand for the PlayStation 5 is unprecedented and that supply constraints could continue through next year. That makes the odds of buying the console feel as random as winning the lottery.
+
+Someone is buying them, though, and the lucky few I’ve talked to relied on some form of automation.
+
+“It’s really difficult to get one without any bots,” said SV Yesvanth, an information security engineer who wrote a web script to automatically scan online stores for available consoles after his own struggles to buy one in Hyderabad, India. After he succeeded in buying a PlayStation, he said, he connected his bot to a Twitter account and helped hundreds of other eager shoppers.
+
+This month, I joined the club. I volunteered to help a friend who had been trying to buy a PlayStation for six months. After setting up several Twitter bots to blast alerts to my phone as new consoles were stocked, I managed to snag one within a week. It wasn’t easy — I failed three times on Best Buy’s website and ultimately succeeded with GameStop. But the bots gave me a necessary edge to beat thousands of others furiously refreshing their web browsers.
+
+Sign up for On Tech with Shira Ovide  Your guide to how technology is transforming our lives and the world. Get it sent to your inbox.
+You can’t pick just any bot and expect to land the device. I interviewed several creators of automated tools that have helped people score PlayStations. They said there were traps to avoid, like scammy bots purporting to sell consoles. There are also some hidden tricks to speed up orders. Here’s what you need to know.
+
+Bots can be your friend …
+Dozens of bots online publish a post on Twitter whenever a retailer refreshes its inventory with more PlayStations. They all generally work the same way: They search an online store’s web code for a signal — like an “add to cart” button — indicating that the PlayStation is back in stock. As soon as they detect that the console is available, they publish an alert on Twitter.
+
+The first step is to follow trustworthy bots. Here are some reliable Twitter accounts I vetted:
+
+@PS5StockAlerts, which tweets when consoles are available at Best Buy, Sam’s Club and Walmart, among others.
+
+@mattswider, which initially relied on information from bots for restock updates but is now curated entirely by Matt Swider, the editor in chief of the blog TechRadar. Mr. Swider gets a heads-up from sources at big-box retailers and some independent stores before they refresh PlayStation inventory, he said.
+
+@ps5_india, the account run by SV Yesvanth, has a small following focused on obtaining a PlayStation in India, where it has been especially challenging to buy the console.
+
+@iloveps_5, a bot hosted by Kevin Hirczy, a software developer in Austria. Mr. Hirczy’s bot focuses on PlayStation availability in Europe.
+
+You could scan your Twitter feed for in-stock alerts from these accounts. But a more efficient route is to set up notifications to show up on your phone whenever the accounts tweet. To do that, download the Twitter mobile app and allow it to push notifications to your phone. Then follow Twitter’s instructions to set specific accounts to send notifications to your phone when they tweet.
+
+Once you see that consoles have come back in stock, don’t hesitate: Click through and add the item to the cart as quickly as you can.
+… but most bots should be avoided
+The risky part about relying on bots is that more often than not, you will run into scammers. The general rule of thumb: Avoid Twitter accounts offering to sell you a PlayStation 5 directly. Once they receive your payment, you probably won’t hear from them again.
+
+So be very careful about which Twitter accounts you follow. Some scammers use account names and avatars that closely resemble the names of legitimate accounts. It’s best to follow only accounts that post links to trusted retailers.
+
+“The scary thing is there are so many scam accounts that try to piggyback off legitimate accounts,” Mr. Swider said. “It’s hard to tell them apart.”
+
+Other bots to avoid are the automatic checkout tools, like browser add-ons that refresh websites and try to order the PlayStation for you. Many retailer sites have systems that detect orders placed by nonhumans, so using these tools could cause your order to fail, SV Yesvanth said.
+
+There are hidden tricks
+Beyond following some bots and setting up alerts for your phone, you can tilt the odds in your favor with a few more steps:
+
+On retail sites such as GameStop and Best Buy, create a membership account and fill out your mailing address and credit card information ahead of time. This will speed up checkout by valuable seconds, Mr. Swider said.
+
+In rare cases, PlayStation orders have failed in the middle of a credit card transaction. On some store sites, like Amazon, you can buy gift credit for yourself, which allows you to skip the credit card verification process, SV Yesvanth said. (The downside is this strategy commits you to trying to buy the console from a specific retailer.)
+
+Some online stores have quirks. On Best Buy, for example, you shouldn’t refresh the website after clicking the “add to cart” button — that could cause you to lose your PlayStation. Mr. Swider regularly streams live YouTube videos walking people through the different checkout processes, and SV Yesvanth and Mr. Hirczy host group chats on Discord where people discuss what’s working for them.
+
+At the end of the day, the sheer amount of effort to buy a product may sound absurd. But in an era when frantic shoppers compete even for hand sanitizer and toilet paper, bots may lead the path to victory.

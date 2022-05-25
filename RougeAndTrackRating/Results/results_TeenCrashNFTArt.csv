@@ -1,0 +1,10 @@
+TeenCrashNFTArt
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.102,0.078,0.177,0.043,0.172,0.192,0.047,0.127,
+Title
+rouge-1,0.129,0.114,0.206,0.066,0.092,0.222,0.153,0.258,
+Byline
+rouge-1,0.054,0.043,0.1,0.048,0.078,0.17,0.054,0.0,
+FirstSentence
+rouge-1,0.111,0.133,0.102,0.099,0.133,0.13,1.0,0.097,

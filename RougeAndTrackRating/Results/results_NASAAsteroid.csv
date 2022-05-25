@@ -1,0 +1,10 @@
+NASAAsteroid
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.571,0.163,0.368,0.325,0.111,0.399,0.324,0.108,
+Title
+rouge-1,0.241,0.181,0.303,0.105,0.083,0.266,0.312,0.187,
+Byline
+rouge-1,0.253,0.245,0.173,0.117,0.195,0.413,0.4,0.088,
+FirstSentence
+rouge-1,0.31,0.363,0.242,0.157,0.133,0.711,1.0,0.187,

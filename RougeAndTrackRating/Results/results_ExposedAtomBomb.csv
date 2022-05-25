@@ -1,0 +1,10 @@
+ExposedAtomBomb
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.228,0.115,0.193,0.571,0.359,0.137,0.185,0.327,
+Title
+rouge-1,0.235,0.121,0.232,0.133,0.11,0.307,0.228,0.333,
+Byline
+rouge-1,0.156,0.13,0.178,0.465,0.245,0.115,0.25,0.326,
+FirstSentence
+rouge-1,0.156,0.26,0.321,0.279,0.393,0.307,1.0,0.326,

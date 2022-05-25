@@ -1,0 +1,10 @@
+AfghanistanGovCollapses
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.196,0.204,0.285,0.157,0.238,0.243,0.28,0.25,
+Title
+rouge-1,0.178,0.09,0.216,0.06,0.054,0.277,0.23,0.148,
+Byline
+rouge-1,0.243,0.258,0.181,0.235,0.181,0.222,0.314,0.266,
+FirstSentence
+rouge-1,0.333,0.388,0.307,0.163,0.246,0.312,1.0,0.218,

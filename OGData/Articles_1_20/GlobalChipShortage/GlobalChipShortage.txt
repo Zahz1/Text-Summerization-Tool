@@ -1,0 +1,57 @@
+Dan Rozycki, the president of a small engineering firm, worries about what a global semiconductor shortage could mean for curing concrete.
+
+Mr. Rozycki’s company, Transtec Group in Austin, Texas, sells small sensors that are placed where concrete is poured at building, highway and bridge construction sites. The gadgets take temperature readings and wirelessly send data so workers with computers can ensure the material is hardening properly.
+
+Like many other things in the modern world, from computers and cars to cash registers and kitchen appliances, the sensors require a couple of common, inexpensive semiconductors that have suddenly become a very scarce commodity.
+
+“Every month our product is getting more popular,” Mr. Rozycki said. “But we may not be able to make it in several months.”
+
+Shortages of semiconductors, fueled by pandemic interruptions and production issues at multibillion-dollar chip factories, have sent shock waves through the economy. Questions about chips are reverberating among both businesses and policymakers trying to navigate the world’s dependence on the small components.
+
+Chip supply limitations are far from a new phenomenon. But past problems have typically concerned particular kinds of chips, like the types that help store computer memory or process vast amounts of data. This time, customers are also scrambling to find an array of simpler chips made in older factories. And those factories are difficult to upgrade.
+President Biden in February ordered a 100-day review of the semiconductor supply chain, a process that drew chief executives of 19 big companies to a virtual meeting Monday. Congress has backed legislation aimed at spurring more domestic chip manufacturing to reduce dependence on Taiwan and South Korea, which Mr. Biden has proposed funding with $50 billion in his infrastructure plan.
+
+Most attention has focused on temporary closings of big U.S. car plants. But the problem is affecting many other sectors, particularly the server systems and PCs used to deliver and consume internet services that became crucial during the pandemic.
+
+“Every aspect of human existence is going online, and every aspect of that is running on semiconductors,” said Pat Gelsinger, the new chief executive of the chip maker Intel, who attended the meeting with the president on Monday. “People are begging us for more.”
+
+The chip shortage potentially affects just about any company adding communications or computing features to products. Many examples were described in 90 comments filed to the Biden supply chain review by companies and trade groups, including a laundry list of needs from industry giants like Amazon and Boeing.
+
+The personal computer giant HP said the shortage of semiconductors had prevented the company from being able to meet demand for computers ordered by schools. Rising chip prices also have made it harder to offer affordable hardware for less-wealthy school districts during the pandemic, the company said.
+
+Mr. Rozycki’s engineering firm in Austin is for now among the lucky chip users. It planned ahead and has enough chips to keep making the roughly 50,000 sensors it supplies each year to construction sites. But his distributor has warned him it might not be able to deliver more of them until late 2022, he said.
+
+“Is that going to halt those projects?” Mr. Rozycki asked. He is scouring the market for other distributors that might have the two needed chips in stock. Other possibilities include redesigning the sensors to use different chips.
+The supply problems are as multifaceted as the nearly $500 billion semiconductor business. Manufacturers turn silicon wafers to chips in complex processes using chemicals, gases and costly machines. Finished chips cross national boundaries dozens of times to partners that package, test and ship them to hardware makers and distributors.
+
+Shortages this year have been exacerbated by episodes that include a fire at a Renesas Electronics chip factory in Japan, a drought in Taiwan and a cold snap in Texas that temporarily shut down factories operated by Samsung Electronics, NXP Semiconductors and Infineon.
+
+“It’s hell on earth right now,” said Frank McKay, chief procurement officer at Jabil, which buys billions of dollars’ worth of chips each year to assemble products for customers that include Apple, Amazon, Cisco Systems and Tesla.
+
+On any given day, he said, his company is facing shortages of 100 or so components and has to use all its negotiating power to get them — successfully so far. “But it’s a roller-coaster ride every day,” Mr. McKay said.
+Fixing other issues is likely to stretch into 2022. Mr. Gelsinger said Intel was talking to auto industry suppliers about shifting some production of their chips to older Intel factories, possibly starting in six to nine months. But adding new production tools to an existing chip plant can take a year. Building a new one takes three years.
+
+“This is going to be a long healing,” said Thomas Caulfield, chief executive of GlobalFoundries, a big U.S. chip manufacturer that is doubling capital spending this year so it can meet demand.
+
+For now, chip delivery schedules have stretched from around 12 weeks to more than a year in some cases, chip buyers and brokers said. That is bad news for companies like the webcam start-up Wyze Labs.
+
+“We’re going to be straight up with you about some bad news we got this week,” the company wrote in a note to customers in January. “Some of our key suppliers informed us they would only be able to supply about one-third of the chips we need to make Wyze Cams.”
+
+The company, which is based in Kirkland, Wash., predicted problems stocking the third version of its flagship webcam. The company website says it is sold out, with more inventory expected in one to two weeks. Wyze did not respond to requests for additional comment.
+
+Supply problems can be a touchy topic, said Zach Supalla, chief executive of Particle, a San Francisco company that buys chips to make communication and computing equipment. It sells its devices to thousands of companies that make products like hot tubs, air-conditioners and industrial and medical equipment.
+
+Particle so far has secured enough chips to keep making its products, he said. But the company is asking customers to order further and further in advance to ensure it can meet demand, Mr. Supalla said.
+
+When chips can be found, price markups can be stark. One particularly unglamorous widget, a type of ceramic capacitor that ordinarily sells for around 3 cents each, became hard to find when a Covid-19 outbreak temporarily closed a factory in China.
+The capacitor shortage hurt production of a popular cellular modem. That modem, which normally sells for $10 to $20, spiraled to $200 on the spot market, Mr. Supalla said. Customers like car companies may be willing to pay such sums to keep producing $40,000 cars, Mr. Supalla said. But not all can.
+
+Some buyers suspect profiteering. Jens Gamperl, chief executive of an online components exchange called Sourcengine, recounted a call from an executive who fumed that a chip normally priced at $1 each was listed for sale by the exchange at $32. Mr. Gamperl had to explain that his own company had been forced to pay $28 for the component.
+
+“That is the kind of craziness that we see left and right now,” he said.
+
+Besides the direct effect on hardware makers, chip shortages can reduce shipments and raise the cost of servers and networking equipment to offer services like streaming entertainment, remote learning and medicine. They can also affect software makers.
+
+Tripp, a Los Angeles start-up that makes a kind of meditation app that exploits virtual-reality headsets from Sony and others, was banking on the new PlayStation 5 to lift software demand, said Nanea Reeves, Tripp’s chief executive. But chip shortages helped to hobble that console launch.
+
+“We were expecting a bigger bump from the PS5,” she said. The company is hoping more consoles arrive in the second quarter.

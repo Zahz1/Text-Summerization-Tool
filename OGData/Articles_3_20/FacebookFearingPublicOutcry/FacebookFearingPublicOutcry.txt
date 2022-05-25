@@ -1,0 +1,35 @@
+When Facebook this week released its first quarterly report about the most viewed posts in the United States, Guy Rosen, its vice president of integrity, said the social network had undertaken “a long journey” to be “by far the most transparent platform on the internet.” The list showed that the posts with the most reach tended to be innocuous content like recipes and cute animals.
+
+Facebook had prepared a similar report for the first three months of the year, but executives never shared it with the public because of concerns that it would look bad for the company, according to internal emails sent by executives and shared with The New York Times.
+
+In that report, a copy of which was provided to The Times, the most-viewed link was a news article with a headline suggesting that the coronavirus vaccine was at fault for the death of a Florida doctor. The report also showed that a Facebook page for The Epoch Times, an anti-China newspaper that spreads right-wing conspiracy theories, was the 19th-most-popular page on the platform for the first three months of 2021.
+
+The report was nearing public release when some executives, including Alex Schultz, Facebook’s vice president of analytics and chief marketing officer, debated whether it would cause a public relations problem, according to the internal emails. The company decided to shelve it.
+
+“We considered making the report public earlier,” said Andy Stone, a Facebook spokesman, “but since we knew the attention it would garner, exactly as we saw this week, there were fixes to the system we wanted to make.”
+
+Mr. Stone said Mr. Schultz had advocated releasing the original report but eventually agreed with the recommendation to hold off.
+
+Facebook did not say why it decided to produce a popularity report, but it has faced increasing scrutiny over the data it shares with the government and the public, particularly over misinformation about the virus and vaccines. The criticism has escalated as cases from the Delta variant of the coronavirus surged. The White House has called on the company to share more information about false and misleading information on the site, and to do a better job of stopping its spread. Last month, President Biden accused the company of “killing people” by allowing false information to circulate widely, a statement the White House later softened. Other federal agencies have accused Facebook of withholding key data.
+
+Facebook has pushed back, publicly accusing the White House of scapegoating the company for the administration’s failure to reach its vaccination goals. Executives at Facebook, including Mark Zuckerberg, its chief executive, have said the platform has been aggressively removing Covid-19 misinformation since the start of the pandemic. The company said it had removed over 18 million pieces of misinformation in that period.
+
+But Brian Boland, a former vice president of product marketing at Facebook, said there was plenty of reason to be skeptical about data collected and released by a company that has had a history of protecting its own interests.
+
+
+“You can’t trust a report that is curated by a company and designed to combat a press narrative rather than real meaningful transparency,” Mr. Boland said. “It’s up to regulators and government officials to bring us that transparency.”
+In this week’s report, which covered public content viewed in Facebook’s News Feed from April 1 to June 30, popular links included local news stories, a cat GIF and a Green Bay Packers alumni website. Popular posts, which were seen by tens of millions of accounts, included viral question-and-answer prompts and memes.
+
+Most of the company’s draft report, like the one Facebook released on Wednesday, showed that the 20 most-viewed links on Facebook in the United States were to nonpolitical content, like recipe sites and stories about the United Nations Children’s Fund.
+
+But the rejected report also included the article about the doctor’s death in Florida. The headline of the article, from The South Florida Sun Sentinel and republished by The Chicago Tribune: “A ‘healthy’ doctor died two weeks after getting a COVID-19 vaccine; CDC is investigating why.”
+
+This link was viewed by nearly 54 million Facebook accounts in the United States. Many commenters on the post raised questions about the vaccines’ safety. Six of the top 20 sharers came from public Facebook pages that regularly post anti-vaccination content on Facebook, according to data from CrowdTangle, a social media analytics firm owned by Facebook. Other top sharers of the story included Filipino Facebook pages supporting President Rodrigo Duterte, a pro-Israel Facebook group and a page called “Just the Facts,” which described itself as “putting out the Truth even when the media won’t.”
+
+Months later, the medical examiner’s report said there wasn’t enough evidence to say whether the vaccine contributed to the doctor’s death. Far fewer people on Facebook saw that update.
+
+The 19th-most-popular page on the social network in the earlier report was “Trending World” by the Epoch Times, a publication that has promoted the QAnon conspiracy theory and spread misleading claims about voter fraud before the 2020 presidential election. The Epoch Times is barred from advertising on Facebook because of its repeated violations of the platform’s political advertising policy.
+
+Trending World, according to the report, was viewed by 81.4 million accounts, slightly fewer than the 18th-most-popular page, Fox News, which had 81.7 million content viewers for the first three months of 2021.
+
+Facebook’s transparency report released on Wednesday also showed that an Epoch Times subscription link was among the most viewed in the United States. With some 44.2 million accounts seeing the link in April, May and June, it was about half as popular as Trending World in the shelved report.

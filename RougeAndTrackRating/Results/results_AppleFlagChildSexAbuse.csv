@@ -1,0 +1,10 @@
+AppleFlagChildSexAbuse
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.176,0.193,0.25,0.218,0.166,0.065,0.07,0.148,
+Title
+rouge-1,0.043,0.1,0.235,0.484,0.04,0.051,0.057,0.062,
+Byline
+rouge-1,0.222,0.125,0.38,0.195,0.103,0.085,0.093,0.25,
+FirstSentence
+rouge-1,0.254,0.081,0.139,0.095,0.169,0.75,1.0,0.048,

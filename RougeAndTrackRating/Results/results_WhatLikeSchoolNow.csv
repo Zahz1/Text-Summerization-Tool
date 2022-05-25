@@ -1,0 +1,10 @@
+WhatLikeSchoolNow
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.131,0.181,0.15,0.255,0.222,0.233,0.146,0.245,
+Title
+rouge-1,0.166,0.238,0.222,0.176,0.12,0.187,0.214,0.136,
+Byline
+rouge-1,0.245,0.196,0.444,0.0,0.169,0.383,0.486,0.188,
+FirstSentence
+rouge-1,0.24,0.227,0.896,0.111,0.115,0.454,1.0,0.13,

@@ -1,0 +1,10 @@
+JapanEconomyReturns
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.185,0.324,0.27,0.09,0.258,0.367,0.185,0.375,
+Title
+rouge-1,0.133,0.214,0.214,0.0,0.15,0.3,0.133,0.205,
+Byline
+rouge-1,0.245,0.3,0.199,0.085,0.338,0.346,0.245,0.235,
+FirstSentence
+rouge-1,1.0,0.301,0.226,0.199,0.205,0.338,1.0,0.25,

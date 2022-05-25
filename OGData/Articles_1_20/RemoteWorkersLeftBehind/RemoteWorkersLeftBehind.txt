@@ -1,0 +1,49 @@
+When offices finally reopen, some companies plan to use them in a very different way than they did before the pandemic, giving workers the choice to come in just a few days a week, or not at all.
+
+Some employees are eager to return to the office full time as soon as they can, but others can’t imagine ever going back to the way things were. Offering people more flexibility over where they work can help attract and retain talent, companies say.
+
+Around 10,000 employees at Google recently applied to work remotely or transfer to a different location, and the company approved 85 percent of the requests. The real estate platform Zillow says more women have applied for its jobs since it announced a year ago that most of its 5,900 employees could work from home permanently. The software company Slack, which also offered permanent remote positions last year, said that among recent hires the number of minority workers was 50 percent higher for those who planned to work primarily from home than for those who preferred the office.
+
+But even as the hybrid workplace reduces some longstanding barriers, it could introduce another type of inequality. Bias against remote workers could become a new obstacle to making workplaces more diverse and inclusive, say management experts and corporate executives themselves.
+
+“The employees who are working in person may get more visibility with leadership,” said Sonja Gittens Ottley, the head of diversity and inclusion at the software company Asana, which has more than 1,000 employees who will be allowed to spend two days a week working remotely when offices reopen. “They might have more opportunities for mentorship and sponsorship.”
+Though most evidence that remote workers are at a disadvantage is anecdotal, at least one study, led by researchers at Stanford University, suggests they are less likely to be promoted than their in-office peers. In the experiment, researchers randomly assigned workers at a large travel agency in Shanghai to work remotely or in the office for nine months. Though the remote workers were 13 percent more productive, putting in more hours and making more calls per minute, they were promoted about half as often as their in-office peers.
+“They can get forgotten,” said Nicholas Bloom, a professor of economics at Stanford and one of the study’s authors.
+
+The result is troubling partly because the desire to work remotely isn’t evenly distributed, Dr. Bloom said. He and his research team conducted monthly surveys about remote work since May last year. As of March this year, among college-educated parents of young children, women have said they want to work from home full time around 50 percent more often than men do.
+
+Editors’ Picks
+
+When Home Became the Office, They Needed More Space. Which Apartment Would You Choose?
+
+The Maldives Knows Y.O.L.O.
+
+Friday Night Footlights: How Theater Bonds a Colorado Town
+Continue reading the main story
+Over time, then, bias against remote workers could compound wider workplace equality problems.
+
+Bryan Hancock, a partner at McKinsey & Company who leads the firm’s talent management practice, said his clients were “taking it on as a matter of broad equity.” Bias is even more of a concern “when you layer on the extra level of who is more likely to work remote,” he said.
+
+The job site Indeed is considering how to monitor its promotion and pay data for signs that remote workers are not receiving equal treatment, similar to the way it examines data as part of its diversity and inclusion efforts, said Paul Wolfe, the firm’s head of global human resources. In addition to demographic factors, “another data point will be is this employee remote, flex or in-office,” he said. Indeed has given its 10,000 employees the option to work remotely on a permanent basis.
+
+“Feeling like you’re second class and feeling like your career opportunities are limited means you’re probably not going to put as much into the company and the effort as you could,” he said. “And it means the company is going to lose talented employees.”
+At Zillow, “we’re going to do everything we can to actively move away from the way we used to work,” said Meghan Reibstein, the company’s vice president for organizational operations. Before the pandemic, fewer than 2 percent of the company’s employees worked remotely. Now, about two-thirds plan to continue working remotely indefinitely. In an internal survey, Ms. Reibstein said, about 60 percent of employees said they wanted to go to an office between once a month and once a year.
+During the pandemic, Zillow has hired almost 500 employees who do not live within 50 miles of one of its 12 corporate locations, accounting for around 20 percent of hires during that time. Ms. Reibstein herself moved from Seattle, where Zillow is based, to Asheville, N.C., to be near her family.
+
+The company plans for its all-hands meetings, which used to take place in Seattle, to continue being hosted virtually, and for nearly all of its training and development programs to remain online. Employees will no longer have assigned seats in its offices. And office time will be centered on “less frequent, more intentional, more impactful gatherings,” Ms. Reibstein said.
+
+Another change that companies such as Zillow and Salesforce are making to level the playing field for remote workers is in how they conduct meetings. Instead of having in-office employees gather in a conference room while remote employees dial in, if one person is not in the physical room, everyone will dial in separately on their laptop, regardless of whether they’re in the office.
+“Space is equal on the screen, and everybody’s name is there,” Ms. Reibstein said.
+To foster the spontaneity of office interactions, Indeed is exploring technology that includes installing screens in its office kitchens that would allow remote workers to engage in casual “water cooler” conversations with their co-workers (perhaps in sight of an actual water cooler). Office small talk has been shown to foster a greater sense of belonging.
+
+Changes like these may help reduce some of the bias against remote workers, but only up to a point.
+
+Take meetings in which everyone dials in from a laptop: “After the meeting ends, the three people at the office close their laptops, step out of the cubicles, go grab a coffee, go chat in the corridor, basically carry the meeting on,” said Dr. Bloom of Stanford. “And so you just naturally have an in group and an out group.”
+
+One of the bigger factors that could drive inequality between remote and office-based workers is proximity to company leaders, who tended to be in the office full time before the pandemic. When executives are themselves working remotely, it lessens the perceived advantage of getting face time with decision makers in the office.
+
+At Slack, executives have agreed to work no more than three days in the office each week, said Brian Elliott, who leads the company’s future of work think tank. “In terms of setting the example, they are going to be exhibiting flexibility,” he said.
+
+Prithwiraj Choudhury, a professor at Harvard Business School, ran an experiment last summer in collaboration with a global bank whose employees were mostly working remotely because of the pandemic. He randomly assigned summer interns to have video meetings with senior leaders, other interns or nobody. The number of meetings assigned to each intern also varied randomly. Meeting senior managers had a very strong effect on an intern’s receiving a job offer.
+
+“Informal interactions can be orchestrated even in remote settings,” Dr. Choudhury said, “and they have effects on career outcomes.”

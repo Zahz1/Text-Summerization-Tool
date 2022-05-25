@@ -1,0 +1,1 @@
+ The gadgets take temperature readings and wirelessly send data so workers with computers can ensure the material is hardening properly.

@@ -1,0 +1,10 @@
+ChinaSentencesCanadianBusinessman
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.145,0.166,0.235,0.222,0.117,0.28,0.215,0.367,
+Title
+rouge-1,0.146,0.181,0.108,0.193,0.054,0.232,0.156,0.228,
+Byline
+rouge-1,0.25,0.27,0.269,0.173,0.115,0.344,0.212,0.24,
+FirstSentence
+rouge-1,0.216,0.109,0.171,0.218,0.114,0.157,1.0,0.235,

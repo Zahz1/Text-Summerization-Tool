@@ -1,0 +1,30 @@
+The Western diamondback rattlesnake is a master of nonverbal communication. It need only shake the rattle on its tail to send a crystal clear message: “Hey. I’m sitting here. Don’t step on me because I’m going to bite you,” said Boris Chagnaud, a biologist at the University of Graz in Austria.
+
+But the rattlesnake has another, wilier trick up its tail. As it perceives a potential threat coming closer, the rattlesnake will sharply increase the speed of its rattle, accelerating from da … da … da … to dadada. Dr. Chagnaud compares the acoustic warnings to a car’s backup beeper, which will beep more as the back of your car approaches an object. This uptick tricks unsuspecting humans into believing the snake is closer than it actually is, according to a paper by Dr. Chagnaud and colleagues published in the journal Current Biology on Thursday.
+
+Scientists knew that rattlesnakes often change their rattling noises, but no one quite knew why. Matthew Rowe, a biologist at the University of Oklahoma who was not involved with the research, said he had witnessed this rattling trick hundreds of times but never questioned what the signal might be communicating to the snake’s enemies. “That’s embarrassing for me,” he said.
+
+Sebastian Harris, an ecologist in Pennsylvania who has researched rattlesnakes, said, “I’ve definitely had a timber rattlesnake rattle very loud upon my approach only to find he was 10 or so feet away under some dense vegetation.”
+
+The research began when Dr. Chagnaud, who studies the vibrating vocalizations of toadfish, wanted to compare the fish to rattlesnakes, which use similar muscles to rattle their tails. In 2018, he visited the resident rattlesnakes in the lab of Tobias Kohl, a researcher at the Technical University of Munich in Germany and an author on the paper. In Dr. Kohl’s lab, Dr. Chagnaud noticed the snakes would abruptly increase the frequency of their rattling as he drew near.
+
+Dr. Chagnaud devised a series of tests to study the purpose of the shifting rattles. First, he placed the snakes in a room with a moving, motorized human torso full of microphones. But the disembodied torso contraption was not entirely quiet and difficult to move.
+
+“We are biologists, not engineers,” he said.
+
+The second test was much more successful. The researchers placed the snakes on a table across from a sheet with a projection of a black disc. They were able to make the disc increase in size, mimicking an object coming closer.
+As the black disc got bigger, the snakes increased their rattling rate up to 40 hertz and then abruptly shot up their rattling frequency to 100 hertz. But these results were confusing: If the snake’s rattling was an honest indication of how close they were to the threat, the increase in rattling should be linear.
+
+The researchers developed a theory: Maybe the snakes’ sudden, high-frequency rattling created an illusion of closeness that functions as a warning. Dr. Chagnaud first wanted to test this theory on buffalo at the Munich Zoo before he realized it would be far easier to use college students, who are generally more willing test subjects.
+
+The volunteers sat on a chair in the middle of a room wearing a virtual reality headset that moved them through a grassland at dusk toward a hidden snake. As the rattles increased in frequency, the volunteers pressed a button to indicate when they thought they were around three feet from the snake. All the test subjects pressed the button when the rattling jumped in frequency, misinterpreting their real distance.
+
+The researchers propose that this sudden jump in frequency is an evolved behavior that rattlesnakes use to fool the listener about their actual distance to the snake. “The shift in rattling is subterfuge on the part of the snake,” said Bruce Young, an anatomist at the Kirksville College of Osteopathic Medicine in Missouri, who reviewed the paper.
+
+However, calling this subterfuge is only one hypothesis, Dr. Chagnaud clarified. In another explanation, the fast rattling could be a strategy to grab the attention of the listener, similar to provoking a startle response, sort of like when a loud noise causes a person to flinch. But Dr. Chagnaud points out that a snake could more efficiently generate a startle response by jumping from 3 hertz to 100 hertz; he believes the slow rattling ramp-up to 100 hertz is better explained by an illusion of closeness.
+
+But humans were never a rattlesnake’s intended evolutionary target, as the serpents have been around North America for at least six million years. Dr. Rowe said that the paper did not necessarily illuminate how the animals that evolved along with the rattlesnakes, such as badgers or canids, perceive the rattling.
+
+Unfortunately, doing the same virtual reality experiment on a mustelid would probably be chaotic and stressful. “Could you put little goggles on a badger?” Dr. Rowe wondered aloud. “Badgers are so doggone intractable.” In his eyes, California ground squirrels would be a rattlesnake enemy far better suited to virtual reality.
+
+“There are lots of clever young scientists out there that might be able to figure out a way to sit a squirrel down at a monitor with little headphones,” Dr. Rowe said.

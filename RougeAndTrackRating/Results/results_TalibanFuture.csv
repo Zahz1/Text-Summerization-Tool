@@ -1,0 +1,10 @@
+TalibanFuture
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.19,0.097,0.129,0.055,0.181,0.2,0.162,0.114,
+Title
+rouge-1,0.048,0.25,0.2,0.228,0.185,0.163,0.222,0.294,
+Byline
+rouge-1,0.249,0.17,0.108,0.19,0.131,0.142,0.093,0.195,
+FirstSentence
+rouge-1,0.042,0.173,0.666,0.146,0.166,0.399,1.0,0.25,

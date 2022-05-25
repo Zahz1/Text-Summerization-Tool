@@ -1,0 +1,10 @@
+BiggestDigitalMediaCompany
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.031,0.15,0.307,0.058,0.307,0.311,0.232,0.292,
+Title
+rouge-1,0.096,0.21,0.27,0.062,0.16,0.279,0.195,0.205,
+Byline
+rouge-1,0.0,0.108,0.111,0.0,0.122,0.142,0.1,0.21,
+FirstSentence
+rouge-1,0.121,0.213,0.216,0.579,0.229,0.175,0.743,0.131,

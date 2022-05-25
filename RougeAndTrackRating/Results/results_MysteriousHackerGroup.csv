@@ -1,0 +1,10 @@
+MysteriousHackerGroup
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.188,0.114,0.25,0.066,0.093,0.208,0.188,0.294,
+Title
+rouge-1,0.17,0.068,0.058,0.166,0.103,0.142,0.17,0.071,
+Byline
+rouge-1,0.205,0.24,0.145,0.088,0.253,0.317,0.205,0.163,
+FirstSentence
+rouge-1,1.0,0.178,0.262,0.156,0.141,0.173,1.0,0.218,

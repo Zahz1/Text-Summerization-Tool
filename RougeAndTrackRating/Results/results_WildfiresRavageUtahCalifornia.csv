@@ -1,0 +1,10 @@
+WildfiresRavageUtahCalifornia
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.181,0.238,0.363,0.238,0.32,0.243,0.3,0.277,
+Title
+rouge-1,0.04,0.0,0.285,0.108,0.177,0.166,0.29,0.064,
+Byline
+rouge-1,0.238,0.296,0.399,0.296,0.387,0.264,0.388,0.208,
+FirstSentence
+rouge-1,0.298,0.243,0.399,0.216,0.414,0.246,1.0,0.352,

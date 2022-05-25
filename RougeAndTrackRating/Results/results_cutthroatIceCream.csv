@@ -1,0 +1,10 @@
+cutthroatIceCream
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.166,0.259,0.177,0.166,0.225,0.269,0.228,0.103,
+Title
+rouge-1,0.05,0.294,0.24,0.214,0.156,0.312,0.399,0.105,
+Byline
+rouge-1,0.203,0.264,0.09,0.085,0.228,0.313,0.117,0.07,
+FirstSentence
+rouge-1,0.097,0.228,0.23,0.137,0.153,0.242,1.0,0.102,

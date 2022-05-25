@@ -1,0 +1,41 @@
+When a cyberattack on Iran’s railroad system last month caused widespread chaos with hundreds of trains delayed or canceled, fingers naturally pointed at Israel, which has been locked in a long-running shadow war with Tehran.
+
+But a new investigation by an Israeli-American cybersecurity company, Check Point Software Technologies, concluded that a mysterious group opposed to the Iranian government was most likely behind the hack. That is in contrast to many previous cyberattacks, which were attributed to state entities. The group is known as Indra, named after the god of war in Hindu mythology.
+
+“We have seen many cyberattacks connected with what are believed to be professional intelligence or military units,” said Itay Cohen, a senior researcher at Check Point. “But here, it seems to be something else entirely.”
+
+The company’s report, which was reviewed by The New York Times, said the attack was a cautionary tale: An opposition group without the budget, personnel or abilities of a government could still inflict a good deal of damage.
+
+Iran and its nuclear program have been the target of a series of cyberattacks over recent years, including a campaign from 2009 to 2010 directed by Israel and the United States against a uranium enrichment facility.
+
+Tehran, in turn, has been accused of hacking other governments, cybersecurity companies and websites over the past decade. In one instance, the United States accused computer specialists who regularly worked for Iran’s Islamic Revolutionary Guards Corps of carrying out cyberattacks on dozens of American banks and trying to take over the controls of a small dam in a suburb of New York City.
+
+In cases where Iran has acknowledged it was a victim of a cyberattack, it usually accused foreign countries. But after the attack on July 9 on the railway system, Tehran did not blame anyone and there was no claim of responsibility.
+
+Check Point said the hack bore striking similarities to others against companies connected to the Iranian government that Indra had claimed in 2019 and 2020.
+“It is very possible that Indra is a group of hackers, made up of opponents of the Iranian regime, acting from either inside or outside the country, that has managed to develop its own unique hacking tools and is using them very effectively,” Mr. Cohen said.
+Such a group could still be backed by a state, or its name could be used as a cover for one, but Check Point and other experts said they had found no indication of that.
+
+Ari Eitan, the vice president of research at Intezer, a New York-based company that specializes in the comparison of codes in different cyberweapons, also said there was a strong link between the tools and methods used in the July train hack and past hacks claimed by Indra.
+
+“They share code genes that were not seen anywhere else but in these attacks, and the files used last July are an updated and improved version of those used in 2019 and 2020,” he said. “Based on the code connections, it’s safe to assume the same group is behind all attacks.”
+
+Indra first surfaced on social media shortly before its first hacking claim in 2019 and has since posted in English and Arabic. It has claimed responsibility for a series of attacks targeting companies linked to Iran and its proxies, like Hezbollah, the Lebanese militant group.
+
+The group’s Twitter account says its mission is to “bring a stop to the horrors of QF and its murderous proxies in the region,” referring to the Quds Force — the foreign-facing branch of the Revolutionary Guards — and the proxy militias it oversees around the Middle East.
+
+On the day of the train attack, an announcement appeared on electronic timetable boards at railroad stations across Iran saying: “Long delays due to cyberattacks.” The message itself was the work of the hackers and, in a sardonic twist, it advised confused travelers to seek more information by calling 64411, the office number of Iran’s supreme leader, Ayatollah Ali Khamenei.
+
+A day later, the Iranian Transportation Ministry’s computer system was also hacked, severely disrupting operations. In both attacks, similar notices popped up on computer screens making clear that it was a hack, though there was no mention of Indra in the claims.
+
+Check Point said that its investigation found that the hackers engaged in intelligence gathering before their attack. An identical break-in tool was used for both hacks, disabling the computers by locking them and wiping their contents. The tool, called Wiper, is an advanced version of the same one that Indra has been using since 2019, according to Check Point.
+
+“What we are seeing here are patterns that are different from anything we have seen in the past in attacks executed by states,” said Mr. Cohen, adding that Indra had developed unique and exclusive attack tools and had demonstrated intelligence-gathering ability.
+
+He also said that the group appeared to be in the process of developing its abilities, but that it was still far from the level of sophistication of a state-run cyberassault.
+
+Their operations, Mr. Cohen said, appeared “more like a team of ideologically motivated youngsters with capabilities they have taught themselves in the cyberworld than like an orderly and organized body.”
+
+In 2019, Indra claimed that it had hacked the servers of the Fadel Exchange and International Forwarding Company, a Syrian-based company dealing with international money transfers and foreign currency trading. Indra accused the company of helping to finance the Quds Force and Hezbollah.
+
+In 2020, Indra claimed that it had hacked the Syrian privately owned Cham Wings Airlines, which has been under U.S. Treasury sanctions since 2016 for aiding the Syrian government in the country’s civil war.

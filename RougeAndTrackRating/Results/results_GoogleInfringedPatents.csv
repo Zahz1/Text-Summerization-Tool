@@ -1,0 +1,10 @@
+GoogleInfringedPatents
+ ,Sumy,distilbart,Pegasus,TextTeaser,SMMRY,Bart,Bert,Roberta,
+MikeSum
+rouge-1,0.333,0.095,0.26,0.303,0.303,0.232,0.333,0.27,
+Title
+rouge-1,0.339,0.114,0.256,0.461,0.461,0.166,0.339,0.266,
+Byline
+rouge-1,0.465,0.327,0.203,0.13,0.13,0.357,0.465,0.24,
+FirstSentence
+rouge-1,1.0,0.272,0.314,0.315,0.315,0.298,1.0,0.36,
